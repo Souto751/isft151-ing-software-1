@@ -1,0 +1,7 @@
+Definición de Ing Software
+Royce : Modelo en cascada
+Barry Boehm: Modelo en espiral
+Importante economía y sistemas y organizaciones, están para aprender a saber el valor del trabajo.
+Proceso: 
+Valorar el proceso, según Brooks fue un fracaso, ya que falló en la gestión de un sistema.
+Traducir cuadraditos Unidad 1
